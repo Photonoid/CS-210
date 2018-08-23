@@ -1,0 +1,36 @@
+1. Hours to complete the project: 8 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Deque): I needed some time to figure out this problem, but I
+					looked at the class slides, which helped me to 
+					understand the content of the project.
+
+   Problem 2 (Random Queue): After doing the first one, I became more 
+					comfortable with coding for this problem, but I faced an 
+					error after doing this just because of initializing
+					the array twice.
+
+   Problem 3 (Subset): This was pretty easy.
+   
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+Herbert				classmates			Helped me to solve the error in 
+									problem 2.
+
+Rachel				S.I tutor		  Helped me to better understand problem 1
+
+Ousmane				tutor			Helped me to do some of the method in 
+									problem 2.
+
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   I enjoyed doing it.
