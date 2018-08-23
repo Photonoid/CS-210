@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Percolation
+comment1.params=N
+comment1.target=Percolation(int)
+comment2.params=i\ j
+comment2.target=void\ open(int,\ int)
+comment3.params=i\ j
+comment3.target=boolean\ isOpen(int,\ int)
+comment4.params=i\ j
+comment4.target=boolean\ isFull(int,\ int)
+comment5.params=
+comment5.target=int\ numberOfOpenSites()
+comment6.params=
+comment6.target=boolean\ percolates()
+comment7.params=i\ j
+comment7.target=int\ encode(int,\ int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

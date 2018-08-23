@@ -1,0 +1,33 @@
+1. Hours to complete the project: 8 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Model a Percolation System): First of all, the project was
+     challenging to understand. I didn't know I will have to use variables for
+     sink and source, as it wasn't directly in the checklist. When I understood
+     that it was relatively easy.
+
+     I also struggled a bit with the coding part in the isFull method. I knew
+     what I need to do, but I just didn't know how to code it, then my friend
+     Herbert helped me to figure that out.
+
+   Problem 2 (Estimate Percolation Threshold): I didn't really face any
+     problem in this part.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+Herbert				friend			Helped me to understand the isFull method.
+
+Frank				friend			Helped me to get the idea of source and
+                                    sink.
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
