@@ -1,0 +1,36 @@
+1. Hours to complete the project: 10-12 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Board Data Type): I have faced a lot of errors. I faced a few errors 
+		just because of missing paranthesis. Another problem I faced was the wrong the
+		puzzle showed different numbers than expected output. The tutor helped me to fix
+		those.
+   Problem 2 (Solver Data Type): Problem 2 was a bit easier than the first one
+		to me, but I was couldn't finish the solver method, using the checklist I could finish
+		some of it. I took help from the tutor
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+Alex				Tutor			Helped me with most of the methods from Problem 1
+									like hamming, manhattan, blankPos, inversion, isSolvable,
+									neighbors and better understand the concepts. Also, helped
+									me to solve several errors from Problem 1.
+									
+									I also took help to do the solver method, implementing hamming and 
+									manhattan helper methods.
+
+I also took help from internet to do problem 2. https://github.com/Toddses/CourseraGit/blob/master/Algorithms%20Part%201/8puzzle/Solver.java
+
+
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   It was the hardest project.
