@@ -1,0 +1,34 @@
+1. Hours to complete the project: 8 hours
+
+2. Provide a short description of how you approached each problem, issues you 
+   encountered, and how you resolved those issues.
+
+   Problem 1 (Brute-force Implementation): I faced a lot of problems while doing this problem, most of the
+		problems were trying to put the checklist in codes. One of the bigger problems I faced was the
+		numbers were not similar to the results while calculating the nearest points. The second rows of
+		my numbers used to match with the first rows from the actual pdf. Later what I figured out was the
+		point was also calculating the point from itself in the nearest method. I also faced errors as I 
+		missed the corner cases.
+
+   Problem 2 (2d-tree Implementation): This program was really hard. I had a hard time to do it most 
+		of the methods. So, I took help from sample problems online to understand the concepts and follow 
+		checklist.
+
+3. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+Alex					Tutor		Helped to solve the nearest and range methods from the first problem.
+
+Online recources; 
+ https://github.com/hackprime/algs4/blob/master/KdTree/KdTree.java
+ https://github.com/justinkwan20/KD-Trees/blob/master/kd_trees/KdTreePointST.java
+
+   ...                ...          ...
+
+4. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
