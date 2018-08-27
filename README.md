@@ -1,1 +1,1 @@
-This is an Intermediate Computing with Data Structure course(CS 210) and here I have included some of the interesting projects I did throughout my coursework.
+Here I have included some of the interesting projects I did throughout my coursework in my Intermediate Computing with Data Structure course(CS 210) at UMass Boston. These projects involve variety of concepts in computing: data structures and ADTs, Lists, Stacks, Queues, Ordered Lists, Binary Trees, and searching and sorting techniques.
